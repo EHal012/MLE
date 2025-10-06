@@ -1,0 +1,162 @@
+[
+  {
+    "feature": "Age",
+    "operation": "remove_outliers",
+    "count": 319,
+    "bounds": "[-26.00, 93.00]"
+  },
+  {
+    "feature": "Annual_Income",
+    "operation": "remove_outliers",
+    "count": 114,
+    "bounds": "[-140258.64, 232374.81]"
+  },
+  {
+    "feature": "Monthly_Balance",
+    "operation": "remove_outliers",
+    "count": 185,
+    "bounds": "[-339.42, 1082.72]"
+  },
+  {
+    "feature": "Amount_invested_monthly",
+    "operation": "remove_outliers",
+    "count": 818,
+    "bounds": "[-489.37, 824.65]"
+  },
+  {
+    "feature": "Num_Bank_Accounts",
+    "operation": "remove_outliers",
+    "count": 167,
+    "bounds": "[-9.00, 19.00]"
+  },
+  {
+    "feature": "Num_Credit_Card",
+    "operation": "remove_outliers",
+    "count": 296,
+    "bounds": "[-5.00, 16.00]"
+  },
+  {
+    "feature": "Interest_Rate",
+    "operation": "remove_outliers",
+    "count": 270,
+    "bounds": "[-28.00, 56.00]"
+  },
+  {
+    "feature": "Num_of_Loan",
+    "operation": "remove_outliers",
+    "count": 567,
+    "bounds": "[-11.00, 17.00]"
+  },
+  {
+    "feature": "Num_Credit_Inquiries",
+    "operation": "remove_outliers",
+    "count": 194,
+    "bounds": "[-14.00, 28.00]"
+  },
+  {
+    "feature": "Total_EMI_per_month",
+    "operation": "remove_outliers",
+    "count": 633,
+    "bounds": "[-382.90, 583.97]"
+  },
+  {
+    "feature": "fe_1",
+    "operation": "remove_outliers",
+    "count": 1,
+    "bounds": "[-371.00, 574.00]"
+  },
+  {
+    "feature": "fe_3",
+    "operation": "remove_outliers",
+    "count": 2,
+    "bounds": "[-372.00, 580.00]"
+  },
+  {
+    "feature": "fe_7",
+    "operation": "remove_outliers",
+    "count": 1,
+    "bounds": "[-366.00, 579.00]"
+  },
+  {
+    "feature": "fe_11",
+    "operation": "remove_outliers",
+    "count": 2,
+    "bounds": "[-373.00, 572.00]"
+  },
+  {
+    "feature": "fe_14",
+    "operation": "remove_outliers",
+    "count": 2,
+    "bounds": "[-376.00, 576.00]"
+  },
+  {
+    "feature": "fe_15",
+    "operation": "remove_outliers",
+    "count": 1,
+    "bounds": "[-380.00, 579.00]"
+  },
+  {
+    "feature": "fe_19",
+    "operation": "remove_outliers",
+    "count": 1,
+    "bounds": "[-386.00, 587.00]"
+  },
+  {
+    "feature": "Occupation",
+    "operation": "clean_categorical",
+    "null_count": 206402,
+    "unique_count": 17
+  },
+  {
+    "feature": "Type_of_Loan",
+    "operation": "clean_categorical",
+    "null_count": 211788,
+    "unique_count": 3371
+  },
+  {
+    "feature": "Credit_Mix",
+    "operation": "clean_categorical",
+    "null_count": 0,
+    "unique_count": 4
+  },
+  {
+    "feature": "Payment_Behaviour",
+    "operation": "clean_categorical",
+    "null_count": 206402,
+    "unique_count": 8
+  },
+  {
+    "feature": "Credit_History_Age",
+    "operation": "extract_temporal_components",
+    "new_features": [
+      "Credit_History_Years",
+      "Credit_History_Months",
+      "Credit_History_Total_Months"
+    ]
+  },
+  {
+    "operation": "drop_high_missing_features",
+    "features": [
+      "Type_of_Loan",
+      "Amount_invested_monthly",
+      "Total_EMI_per_month",
+      "Num_of_Loan",
+      "Age",
+      "Num_Credit_Card",
+      "Interest_Rate",
+      "Changed_Credit_Limit",
+      "Num_Credit_Inquiries",
+      "Monthly_Balance",
+      "Num_Bank_Accounts",
+      "Annual_Income",
+      "Occupation",
+      "Credit_Utilization_Ratio",
+      "Monthly_Inhand_Salary",
+      "Payment_Behaviour",
+      "Outstanding_Debt",
+      "Credit_History_Months",
+      "Credit_History_Years"
+    ],
+    "threshold": "50%"
+  }
+]

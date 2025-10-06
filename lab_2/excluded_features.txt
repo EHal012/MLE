@@ -1,0 +1,8 @@
+# Excluded Features
+# Total: 5 features
+
+Name
+SSN
+Num_of_Delayed_Payment
+Delay_from_due_date
+Payment_of_Min_Amount

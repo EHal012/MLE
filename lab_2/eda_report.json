@@ -1,0 +1,1274 @@
+{
+  "clickstream": [
+    {
+      "feature_name": "fe_1",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 763,
+      "sample_values": [
+        "63",
+        "-108",
+        "-13",
+        "-85",
+        "55",
+        "-133",
+        "67",
+        "-64",
+        "167",
+        "356"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -378.0,
+        "max": 541.0,
+        "mean": 101.41479552039225,
+        "stddev": 99.83359392844184,
+        "q25": 34.0,
+        "median": 102.0,
+        "q75": 169.0
+      }
+    },
+    {
+      "feature_name": "fe_2",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 760,
+      "sample_values": [
+        "118",
+        "182",
+        "8",
+        "45",
+        "120",
+        "114",
+        "155",
+        "93",
+        "37",
+        "-23"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -356.0,
+        "max": 560.0,
+        "mean": 103.09619456206819,
+        "stddev": 99.93000203749298,
+        "q25": 36.0,
+        "median": 103.0,
+        "q75": 170.0
+      }
+    },
+    {
+      "feature_name": "fe_3",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 766,
+      "sample_values": [
+        "80",
+        "123",
+        "87",
+        "200",
+        "226",
+        "138",
+        "24",
+        "36",
+        "169",
+        "-4"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -399.0,
+        "max": 583.0,
+        "mean": 104.33370941980536,
+        "stddev": 100.59986549187705,
+        "q25": 36.0,
+        "median": 104.0,
+        "q75": 172.0
+      }
+    },
+    {
+      "feature_name": "fe_4",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 764,
+      "sample_values": [
+        "121",
+        "4",
+        "166",
+        "89",
+        "-86",
+        "84",
+        "-16",
+        "-1",
+        "155",
+        "-46"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -307.0,
+        "max": 562.0,
+        "mean": 105.64850308298047,
+        "stddev": 100.32606477046183,
+        "q25": 38.0,
+        "median": 106.0,
+        "q75": 173.0
+      }
+    },
+    {
+      "feature_name": "fe_5",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 764,
+      "sample_values": [
+        "55",
+        "-56",
+        "214",
+        "128",
+        "253",
+        "53",
+        "205",
+        "3",
+        "4",
+        "80"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -343.0,
+        "max": 570.0,
+        "mean": 106.99667558130896,
+        "stddev": 100.69360665858557,
+        "q25": 39.0,
+        "median": 107.0,
+        "q75": 175.0
+      }
+    },
+    {
+      "feature_name": "fe_6",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 755,
+      "sample_values": [
+        "193",
+        "27",
+        "-98",
+        "54",
+        "97",
+        "-60",
+        "80",
+        "183",
+        "151",
+        "167"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -321.0,
+        "max": 565.0,
+        "mean": 103.23592229403462,
+        "stddev": 100.27038751891193,
+        "q25": 36.0,
+        "median": 103.0,
+        "q75": 171.0
+      }
+    },
+    {
+      "feature_name": "fe_7",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 778,
+      "sample_values": [
+        "111",
+        "25",
+        "215",
+        "76",
+        "107",
+        "60",
+        "355",
+        "-129",
+        "99",
+        "258"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -368.0,
+        "max": 537.0,
+        "mean": 107.0703374563554,
+        "stddev": 100.32326515826574,
+        "q25": 39.0,
+        "median": 107.0,
+        "q75": 174.0
+      }
+    },
+    {
+      "feature_name": "fe_8",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 768,
+      "sample_values": [
+        "112",
+        "-6",
+        "152",
+        "51",
+        "68",
+        "128",
+        "140",
+        "122",
+        "192",
+        "174"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -361.0,
+        "max": 573.0,
+        "mean": 110.71872446326425,
+        "stddev": 100.24369781781921,
+        "q25": 43.0,
+        "median": 111.0,
+        "q75": 179.0
+      }
+    },
+    {
+      "feature_name": "fe_9",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 756,
+      "sample_values": [
+        "-101",
+        "284",
+        "129",
+        "61",
+        "103",
+        "349",
+        "201",
+        "164",
+        "-64",
+        "104"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -328.0,
+        "max": 577.0,
+        "mean": 114.40635446846446,
+        "stddev": 100.18613852691671,
+        "q25": 47.0,
+        "median": 115.0,
+        "q75": 182.0
+      }
+    },
+    {
+      "feature_name": "fe_10",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 773,
+      "sample_values": [
+        "83",
+        "222",
+        "139",
+        "139",
+        "126",
+        "102",
+        "87",
+        "138",
+        "-207",
+        "65"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -317.0,
+        "max": 537.0,
+        "mean": 117.77579674615556,
+        "stddev": 100.80768608991778,
+        "q25": 50.0,
+        "median": 118.0,
+        "q75": 186.0
+      }
+    },
+    {
+      "feature_name": "fe_11",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 770,
+      "sample_values": [
+        "164",
+        "203",
+        "14",
+        "6",
+        "34",
+        "-70",
+        "130",
+        "60",
+        "63",
+        "133"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -375.0,
+        "max": 613.0,
+        "mean": 99.615537478642,
+        "stddev": 100.33542808342547,
+        "q25": 32.0,
+        "median": 100.0,
+        "q75": 167.0
+      }
+    },
+    {
+      "feature_name": "fe_12",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 762,
+      "sample_values": [
+        "105",
+        "190",
+        "203",
+        "197",
+        "12",
+        "-138",
+        "86",
+        "140",
+        "241",
+        "-75"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -344.0,
+        "max": 550.0,
+        "mean": 99.82368044721788,
+        "stddev": 100.59117511972615,
+        "q25": 32.0,
+        "median": 100.0,
+        "q75": 168.0
+      }
+    },
+    {
+      "feature_name": "fe_13",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 777,
+      "sample_values": [
+        "-16",
+        "-14",
+        "26",
+        "172",
+        "76",
+        "200",
+        "71",
+        "143",
+        "167",
+        "145"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -355.0,
+        "max": 530.0,
+        "mean": 100.420803617859,
+        "stddev": 100.88182648131858,
+        "q25": 33.0,
+        "median": 101.0,
+        "q75": 168.0
+      }
+    },
+    {
+      "feature_name": "fe_14",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 775,
+      "sample_values": [
+        "-81",
+        "-96",
+        "86",
+        "96",
+        "43",
+        "168",
+        "72",
+        "90",
+        "43",
+        "211"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -394.0,
+        "max": 583.0,
+        "mean": 100.02580138919842,
+        "stddev": 101.0703707917751,
+        "q25": 32.0,
+        "median": 100.0,
+        "q75": 168.0
+      }
+    },
+    {
+      "feature_name": "fe_15",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 777,
+      "sample_values": [
+        "-126",
+        "200",
+        "171",
+        "174",
+        "183",
+        "32",
+        "78",
+        "354",
+        "216",
+        "140"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -351.0,
+        "max": 597.0,
+        "mean": 99.60038258673204,
+        "stddev": 101.14590617776975,
+        "q25": 31.0,
+        "median": 100.0,
+        "q75": 168.0
+      }
+    },
+    {
+      "feature_name": "fe_16",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 765,
+      "sample_values": [
+        "114",
+        "35",
+        "125",
+        "163",
+        "159",
+        "-85",
+        "238",
+        "280",
+        "287",
+        "113"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -342.0,
+        "max": 554.0,
+        "mean": 99.86083407622019,
+        "stddev": 100.75187641058751,
+        "q25": 32.0,
+        "median": 100.0,
+        "q75": 168.0
+      }
+    },
+    {
+      "feature_name": "fe_17",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 769,
+      "sample_values": [
+        "35",
+        "130",
+        "-130",
+        "37",
+        "-26",
+        "91",
+        "96",
+        "121",
+        "115",
+        "31"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -329.0,
+        "max": 516.0,
+        "mean": 100.12942481984993,
+        "stddev": 101.29842811875086,
+        "q25": 32.0,
+        "median": 100.0,
+        "q75": 169.0
+      }
+    },
+    {
+      "feature_name": "fe_18",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 776,
+      "sample_values": [
+        "85",
+        "94",
+        "354",
+        "207",
+        "104",
+        "185",
+        "147",
+        "159",
+        "183",
+        "136"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -344.0,
+        "max": 551.0,
+        "mean": 100.12513929128593,
+        "stddev": 102.23158668008934,
+        "q25": 31.0,
+        "median": 100.0,
+        "q75": 169.0
+      }
+    },
+    {
+      "feature_name": "fe_19",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 783,
+      "sample_values": [
+        "-73",
+        "111",
+        "17",
+        "180",
+        "118",
+        "134",
+        "51",
+        "-81",
+        "66",
+        "36"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -401.0,
+        "max": 560.0,
+        "mean": 100.341161503603,
+        "stddev": 102.66680374052808,
+        "q25": 31.0,
+        "median": 100.0,
+        "q75": 170.0
+      }
+    },
+    {
+      "feature_name": "fe_20",
+      "dataset": "clickstream",
+      "total_records": 215376,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 786,
+      "sample_values": [
+        "76",
+        "75",
+        "302",
+        "118",
+        "184",
+        "-28",
+        "155",
+        "-27",
+        "55",
+        "125"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -354.0,
+        "max": 547.0,
+        "mean": 100.04625863605973,
+        "stddev": 103.58935787523686,
+        "q25": 30.0,
+        "median": 100.0,
+        "q75": 170.0
+      }
+    }
+  ],
+  "attributes": [
+    {
+      "feature_name": "Age",
+      "dataset": "attributes",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 301,
+      "sample_values": [
+        "18",
+        "26",
+        "19",
+        "44",
+        "44",
+        "27",
+        "15",
+        "52",
+        "31",
+        "26"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -500.0,
+        "max": 8678.0,
+        "mean": 105.77184,
+        "stddev": 664.5027048331665,
+        "q25": 25.0,
+        "median": 33.0,
+        "q75": 42.0
+      }
+    },
+    {
+      "feature_name": "Occupation",
+      "dataset": "attributes",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 16,
+      "sample_values": [
+        "Lawyer",
+        "Mechanic",
+        "Media_Manager",
+        "Doctor",
+        "Mechanic",
+        "Journalist",
+        "Accountant",
+        "Manager",
+        "Entrepreneur",
+        "Scientist"
+      ],
+      "data_type": "categorical",
+      "top_values": [
+        {
+          "Occupation": "_______",
+          "count": 880
+        },
+        {
+          "Occupation": "Lawyer",
+          "count": 828
+        },
+        {
+          "Occupation": "Architect",
+          "count": 795
+        },
+        {
+          "Occupation": "Engineer",
+          "count": 793
+        },
+        {
+          "Occupation": "Accountant",
+          "count": 791
+        },
+        {
+          "Occupation": "Scientist",
+          "count": 789
+        },
+        {
+          "Occupation": "Teacher",
+          "count": 782
+        },
+        {
+          "Occupation": "Media_Manager",
+          "count": 780
+        },
+        {
+          "Occupation": "Developer",
+          "count": 780
+        },
+        {
+          "Occupation": "Mechanic",
+          "count": 780
+        }
+      ]
+    }
+  ],
+  "financials": [
+    {
+      "feature_name": "Annual_Income",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 12492,
+      "sample_values": [
+        "30625.94",
+        "52312.68_",
+        "113781.39",
+        "58918.47",
+        "98620.98",
+        "46951.02",
+        "61194.81",
+        "170614.28",
+        "89064.52",
+        "50807.44"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 7005.93,
+        "max": 23834698.0,
+        "mean": 161620.55254240037,
+        "stddev": 1297841.6372221352,
+        "q25": 19453.05,
+        "median": 37551.78,
+        "q75": 72674.76
+      }
+    },
+    {
+      "feature_name": "Monthly_Inhand_Salary",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 12490,
+      "sample_values": [
+        "2706.161667",
+        "4250.39",
+        "9549.7825",
+        "5208.8725",
+        "7962.415",
+        "3725.585",
+        "5014.5675",
+        "14463.85667",
+        "7256.043333",
+        "4197.953333"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 303.6454167,
+        "max": 15204.63333,
+        "mean": 4188.592302706239,
+        "stddev": 3180.147610900276,
+        "q25": 1624.751667,
+        "median": 3085.853333,
+        "q75": 5944.243333
+      }
+    },
+    {
+      "feature_name": "Num_Bank_Accounts",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 174,
+      "sample_values": [
+        "6",
+        "6",
+        "1",
+        "3",
+        "3",
+        "7",
+        "7",
+        "2",
+        "5",
+        "8"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -1.0,
+        "max": 1756.0,
+        "mean": 16.93992,
+        "stddev": 114.35081529709485,
+        "q25": 3.0,
+        "median": 6.0,
+        "q75": 7.0
+      }
+    },
+    {
+      "feature_name": "Num_Credit_Card",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 284,
+      "sample_values": [
+        "5",
+        "5",
+        "4",
+        "3",
+        "3",
+        "4",
+        "7",
+        "6",
+        "3",
+        "4"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 0.0,
+        "max": 1499.0,
+        "mean": 23.17272,
+        "stddev": 132.00586642912222,
+        "q25": 4.0,
+        "median": 5.0,
+        "q75": 7.0
+      }
+    },
+    {
+      "feature_name": "Interest_Rate",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 300,
+      "sample_values": [
+        "27",
+        "17",
+        "1",
+        "17",
+        "6",
+        "16",
+        "23",
+        "9",
+        "1",
+        "11"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 1.0,
+        "max": 5789.0,
+        "mean": 73.21336,
+        "stddev": 468.68222710052765,
+        "q25": 8.0,
+        "median": 14.0,
+        "q75": 20.0
+      }
+    },
+    {
+      "feature_name": "Num_of_Loan",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 87,
+      "sample_values": [
+        "2",
+        "4",
+        "0",
+        "3",
+        "3",
+        "0",
+        "8",
+        "2",
+        "1",
+        "4"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -100.0,
+        "max": 1495.0,
+        "mean": 3.09944,
+        "stddev": 65.1052772627271,
+        "q25": 1.0,
+        "median": 3.0,
+        "q75": 5.0
+      }
+    },
+    {
+      "feature_name": "Type_of_Loan",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 1426,
+      "null_rate": "11.41%",
+      "unique_count": 6261,
+      "sample_values": [
+        "Credit-Builder Loan, and Home Equity Loan",
+        "Not Specified, Home Equity Loan, Credit-Builder Loan, and Payday Loan",
+        null,
+        "Student Loan, Credit-Builder Loan, and Debt Consolidation Loan",
+        "Student Loan, Debt Consolidation Loan, and Personal Loan",
+        null,
+        "Credit-Builder Loan, Payday Loan, Home Equity Loan, Not Specified, Student Loan, Home Equity Loan, Personal Loan, and Credit-Builder Loan",
+        "Payday Loan, and Auto Loan",
+        "Mortgage Loan",
+        "Mortgage Loan, Not Specified, Home Equity Loan, and Home Equity Loan"
+      ],
+      "data_type": "categorical",
+      "top_values": [
+        {
+          "Type_of_Loan": null,
+          "count": 1426
+        },
+        {
+          "Type_of_Loan": "Not Specified",
+          "count": 176
+        },
+        {
+          "Type_of_Loan": "Credit-Builder Loan",
+          "count": 160
+        },
+        {
+          "Type_of_Loan": "Personal Loan",
+          "count": 159
+        },
+        {
+          "Type_of_Loan": "Debt Consolidation Loan",
+          "count": 158
+        },
+        {
+          "Type_of_Loan": "Student Loan",
+          "count": 155
+        },
+        {
+          "Type_of_Loan": "Payday Loan",
+          "count": 150
+        },
+        {
+          "Type_of_Loan": "Mortgage Loan",
+          "count": 147
+        },
+        {
+          "Type_of_Loan": "Auto Loan",
+          "count": 144
+        },
+        {
+          "Type_of_Loan": "Home Equity Loan",
+          "count": 142
+        }
+      ]
+    },
+    {
+      "feature_name": "Changed_Credit_Limit",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 2765,
+      "sample_values": [
+        "1.63",
+        "9.73",
+        "8.34",
+        "14.42",
+        "1.33",
+        "15.83",
+        "28.63",
+        "0.73",
+        "6.37",
+        "2.6"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -6.49,
+        "max": 36.97,
+        "mean": 10.398582394251187,
+        "stddev": 6.799253021388873,
+        "q25": 5.37,
+        "median": 9.41,
+        "q75": 14.94
+      }
+    },
+    {
+      "feature_name": "Num_Credit_Inquiries",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 208,
+      "sample_values": [
+        "11",
+        "4",
+        "4",
+        "7",
+        "3",
+        "9",
+        "8",
+        "3",
+        "3",
+        "4"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 0.0,
+        "max": 2554.0,
+        "mean": 26.69528,
+        "stddev": 184.19382871053074,
+        "q25": 4.0,
+        "median": 6.0,
+        "q75": 10.0
+      }
+    },
+    {
+      "feature_name": "Credit_Mix",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 4,
+      "sample_values": [
+        "Bad",
+        "_",
+        "Good",
+        "Standard",
+        "Good",
+        "Standard",
+        "Bad",
+        "Good",
+        "_",
+        "_"
+      ],
+      "data_type": "categorical",
+      "top_values": [
+        {
+          "Credit_Mix": "Standard",
+          "count": 4497
+        },
+        {
+          "Credit_Mix": "Good",
+          "count": 3032
+        },
+        {
+          "Credit_Mix": "_",
+          "count": 2611
+        },
+        {
+          "Credit_Mix": "Bad",
+          "count": 2360
+        }
+      ]
+    },
+    {
+      "feature_name": "Outstanding_Debt",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 12213,
+      "sample_values": [
+        "1562.91",
+        "202.68",
+        "1030.2",
+        "473.14",
+        "1233.51",
+        "340.22",
+        "2773.09",
+        "849.69",
+        "648.36",
+        "869.59"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 0.23,
+        "max": 4998.07,
+        "mean": 1426.2203760000057,
+        "stddev": 1155.1694577893727,
+        "q25": 566.05,
+        "median": 1165.77,
+        "q75": 1945.67
+      }
+    },
+    {
+      "feature_name": "Credit_Utilization_Ratio",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 12500,
+      "sample_values": [
+        "30.07719135",
+        "40.28699667",
+        "28.59294254",
+        "27.82995908",
+        "26.52486358",
+        "38.68223175",
+        "27.26845771",
+        "31.75752066",
+        "30.57429936",
+        "30.31145401"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 20.10076996,
+        "max": 48.19982398,
+        "mean": 32.34926457800801,
+        "stddev": 5.1568153045638265,
+        "q25": 28.06595759,
+        "median": 32.4180618,
+        "q75": 36.62296356
+      }
+    },
+    {
+      "feature_name": "Credit_History_Age",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 393,
+      "sample_values": [
+        "10 Years and 9 Months",
+        "31 Years and 0 Months",
+        "15 Years and 10 Months",
+        "15 Years and 10 Months",
+        "17 Years and 10 Months",
+        "21 Years and 5 Months",
+        "14 Years and 3 Months",
+        "20 Years and 8 Months",
+        "30 Years and 3 Months",
+        "22 Years and 10 Months"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 8.0,
+        "max": 3211.0,
+        "mean": 502.66168,
+        "stddev": 733.2385267009226,
+        "q25": 143.0,
+        "median": 212.0,
+        "q75": 315.0
+      }
+    },
+    {
+      "feature_name": "Total_EMI_per_month",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 11226,
+      "sample_values": [
+        "42.94109042",
+        "108.3664671",
+        "0",
+        "123.4349388",
+        "228.0180837",
+        "0",
+        "225.3686914",
+        "208.9074794",
+        "37.57275058",
+        "88.75991925"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 0.0,
+        "max": 81971.0,
+        "mean": 1488.3942909942966,
+        "stddev": 8561.449910123243,
+        "q25": 31.49667415,
+        "median": 72.86421264,
+        "q75": 169.5991975
+      }
+    },
+    {
+      "feature_name": "Amount_invested_monthly",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 11921,
+      "sample_values": [
+        "77.31427572",
+        "58.66019165",
+        "617.0792665",
+        "383.3508446",
+        "332.333708",
+        "437.4339946",
+        "166.5306299",
+        "184.2778715",
+        "296.0941191",
+        "65.27556453"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": 0.0,
+        "max": 10000.0,
+        "mean": 632.3268125215992,
+        "stddev": 2034.4848445892867,
+        "q25": 73.82531107,
+        "median": 133.9694213,
+        "q75": 261.4998577
+      }
+    },
+    {
+      "feature_name": "Payment_Behaviour",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 7,
+      "sample_values": [
+        "High_spent_Medium_value_payments",
+        "High_spent_Medium_value_payments",
+        "High_spent_Small_value_payments",
+        "Low_spent_Medium_value_payments",
+        "High_spent_Medium_value_payments",
+        "Low_spent_Small_value_payments",
+        "High_spent_Medium_value_payments",
+        "High_spent_Medium_value_payments",
+        "High_spent_Medium_value_payments",
+        "High_spent_Medium_value_payments"
+      ],
+      "data_type": "categorical",
+      "top_values": [
+        {
+          "Payment_Behaviour": "Low_spent_Small_value_payments",
+          "count": 3202
+        },
+        {
+          "Payment_Behaviour": "High_spent_Medium_value_payments",
+          "count": 2242
+        },
+        {
+          "Payment_Behaviour": "Low_spent_Medium_value_payments",
+          "count": 1686
+        },
+        {
+          "Payment_Behaviour": "High_spent_Large_value_payments",
+          "count": 1683
+        },
+        {
+          "Payment_Behaviour": "High_spent_Small_value_payments",
+          "count": 1389
+        },
+        {
+          "Payment_Behaviour": "Low_spent_Large_value_payments",
+          "count": 1300
+        },
+        {
+          "Payment_Behaviour": "!@9#%8",
+          "count": 998
+        }
+      ]
+    },
+    {
+      "feature_name": "Monthly_Balance",
+      "dataset": "financials",
+      "total_records": 12500,
+      "null_count": 0,
+      "null_rate": "0.00%",
+      "unique_count": 12500,
+      "sample_values": [
+        "400.3608005",
+        "508.0123412",
+        "597.8989835",
+        "294.1014666",
+        "485.8897084",
+        "225.1245054",
+        "359.5574287",
+        "1303.200316",
+        "641.9374637",
+        "515.7598496"
+      ],
+      "data_type": "numeric",
+      "statistics": {
+        "min": -3.333333333333333e+26,
+        "max": 1463.792328,
+        "mean": -2.6666666666666664e+22,
+        "stddev": 2.9814239699997233e+24,
+        "q25": 270.0999633,
+        "median": 339.6794568,
+        "q75": 473.2308509
+      }
+    }
+  ]
+}
